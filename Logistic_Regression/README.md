@@ -1,3 +1,6 @@
+### Pre-requisite:
+  If using Matlab, make sure the optimization toolbox is installed, otherwise use Octave.
+
 ### Logistic regression
 
 ##### without regularization : 
