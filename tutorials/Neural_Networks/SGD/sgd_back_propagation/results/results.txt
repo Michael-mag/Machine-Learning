@@ -1,0 +1,13 @@
+The produced output is :
+
+[0.00273011]
+[0.99734008]
+[0.99661725]
+[0.00325665]
+
+The expected output is :
+
+0
+1
+1
+0
